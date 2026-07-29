@@ -29,15 +29,16 @@ Institutional-style portfolio optimization using Modern Portfolio Theory in Pyth
 ## Visualizations
 
 ### Efficient Frontier
+Shows thousands of feasible portfolios generated through Monte Carlo simulation, the efficient frontier, the minimum-volatility portfolio, and the maximum-Sharpe portfolio.
 
 ![Efficient Frontier](efficient_frontier.png)
 
 ### Portfolio Allocations
-
+Compares the optimal asset weights for the minimum-volatility and maximum-Sharpe portfolios.
 ![Portfolio Allocations](portfolio_allocations.png)
 
 ### Growth of $1
-
+Compares the cumulative performance of optimized portfolios against an equal-weight portfolio and the SPY benchmark.
 ![Growth of $1](growth_of_1.png)
 ![Growth of $1](growth_of_1D.png)
 ## Results
