@@ -26,7 +26,20 @@ Institutional-style portfolio optimization using Modern Portfolio Theory in Pyth
 ## Data Source
 
 - Yahoo Finance
+## Visualizations
 
+### Efficient Frontier
+
+![Efficient Frontier](efficient_frontier.png)
+
+### Portfolio Allocations
+
+![Portfolio Allocations](portfolio_allocations.png)
+
+### Growth of $1
+
+![Growth of $1](growth_of_1.png)
+![Growth of $1](growth_of_1D.png)
 ## Results
 
 This project generates:
