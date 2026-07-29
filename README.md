@@ -1,4 +1,4 @@
-# markowitz_portfolio_optimizer.ipynb
+# Markowitz Portfolio Optimizer
 Institutional-style portfolio optimization using Modern Portfolio Theory in Python.
 
 ## Features
