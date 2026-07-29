@@ -1,4 +1,5 @@
 # Markowitz Portfolio Optimizer
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abenezer1244-afk/markowitz-portfolio-optimizer/blob/main/markowitz_portfolio_optimizer.ipynb)
 Institutional-style portfolio optimization using Modern Portfolio Theory in Python.
 
 ## Features
