@@ -37,4 +37,4 @@ This project generates:
 
 ## Author
 
-Abenezer
+Abenezer Alemu
